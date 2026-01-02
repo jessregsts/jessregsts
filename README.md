@@ -1,6 +1,6 @@
 ## Hi, there 👋
 
-Check my <a href="https://github.com/jessregsts?tab=repositories">portfolio!</a>
+Check <a href="https://github.com/jessregsts?tab=repositories">my portfolio</a>!
 
 Reach me:
 <br>

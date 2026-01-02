@@ -3,6 +3,7 @@
 Check <a href="https://github.com/jessregsts?tab=repositories">my portfolio</a>!
 
 Reach me:
+<div align="center">
 <br>
 <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></div>
 <br>
